@@ -1,0 +1,10 @@
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\bin\Debug\ActividadDeConexion.exe.config
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\bin\Debug\ActividadDeConexion.exe
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\bin\Debug\ActividadDeConexion.pdb
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\obj\Debug\ActividadDeConexion.csprojAssemblyReference.cache
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\obj\Debug\ActividadDeConexion.Form1.resources
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\obj\Debug\ActividadDeConexion.Properties.Resources.resources
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\obj\Debug\ActividadDeConexion.csproj.GenerateResource.cache
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\obj\Debug\ActividadDeConexion.csproj.CoreCompileInputs.cache
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\obj\Debug\ActividadDeConexion.exe
+C:\Users\TATTAN\source\repos\ActividadDeConexion\ActividadDeConexion\obj\Debug\ActividadDeConexion.pdb
